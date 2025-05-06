@@ -7,5 +7,9 @@ def resta(x, y):
 def multiplicacion(x, y):
     return x*y
 
+def division(x, y):
+    return x/y
+
+print("--------- Bienvenido al menú------------")
 print("Hola Mundo")
 print("Mi primer código")
