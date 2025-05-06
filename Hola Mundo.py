@@ -7,5 +7,6 @@ def resta(x, y):
 def multiplicacion(x, y):
     return x*y
 
-print("Hola Mundo")
-print("Mi primer código")
+print("---------------------Menú Principal-----------------------")
+
+print("Suma entre 4 y 5:",suma(4,5))
